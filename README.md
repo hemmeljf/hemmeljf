@@ -1,4 +1,4 @@
-- 👋 Hi, I’m jake Hemmelgarn
+- 👋 Hi, I’m Jake Hemmelgarn
 - 👀 I’m interested in sports.
 - 🌱 I’m currently learning networking and systems.
 - 💞️ I’m looking to collaborate on school work.
